@@ -26,4 +26,4 @@ phases:
   post_build:
     commands:
        - echo "Build is Successfull"
-
+  # AFTER THE CODE GETS BUILD CHECK THE DOCEKR HUB WHETHER THE DOCKER IMAGE IS PUSHED TO THE DOCKER HUB
